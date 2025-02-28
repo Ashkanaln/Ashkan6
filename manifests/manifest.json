@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://Ashkanaln.github.io/Ashkan6/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "TMDRA",
+  "label" : "TMDRA-Ashkan",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "Fashion MNIST dataset",
+    "@value" : "Fashion MNIST dataset!",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -93,32 +93,6 @@
           "width" : 224
         },
         "on" : "http://474b6e37-1013-4d12-8699-0687043b0480"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://c1bdfbb4-e974-4057-b85e-6b4f160c5386",
-      "@type" : "sc:Canvas",
-      "label" : "test_74",
-      "height" : 224,
-      "width" : 224,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://067dce32-cd88-422d-a5a2-bd54a5563eaa",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_74/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_74",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 224,
-          "width" : 224
-        },
-        "on" : "http://c1bdfbb4-e974-4057-b85e-6b4f160c5386"
       } ],
       "related" : ""
     }, {
@@ -304,32 +278,6 @@
       } ],
       "related" : ""
     }, {
-      "@id" : "http://3543818d-bb30-4d08-899c-675a9b46cde3",
-      "@type" : "sc:Canvas",
-      "label" : "test_48",
-      "height" : 224,
-      "width" : 224,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://8841c9c0-b6ca-4c01-819f-a4702b6c696a",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_48/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_48",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
-          },
-          "height" : 224,
-          "width" : 224
-        },
-        "on" : "http://3543818d-bb30-4d08-899c-675a9b46cde3"
-      } ],
-      "related" : ""
-    }, {
       "@id" : "http://4b155dc1-4812-4245-8bc6-1c915f74aa74",
       "@type" : "sc:Canvas",
       "label" : "test_66",
@@ -405,6 +353,58 @@
           "width" : 224
         },
         "on" : "http://e711d350-3acb-41c6-a66f-07dba1c9da83"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4c9c7626-19cf-4b08-b7de-f3b7c62350d1",
+      "@type" : "sc:Canvas",
+      "label" : "test_6",
+      "height" : 224,
+      "width" : 224,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://11c80120-1f47-41c9-9041-62a37428d016",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 224,
+          "width" : 224
+        },
+        "on" : "http://4c9c7626-19cf-4b08-b7de-f3b7c62350d1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8004d529-9232-4f20-9084-35b2491a0002",
+      "@type" : "sc:Canvas",
+      "label" : "test_17",
+      "height" : 224,
+      "width" : 224,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fde4f593-352c-4225-9185-afd9342edbb3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_17/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ashkanaln.github.io/Ashkan6/images/test_17",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 224,
+          "width" : 224
+        },
+        "on" : "http://8004d529-9232-4f20-9084-35b2491a0002"
       } ],
       "related" : ""
     } ]
